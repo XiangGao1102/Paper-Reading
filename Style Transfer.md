@@ -14,6 +14,8 @@
 
 <li>Park D Y, Lee K H. Arbitrary style transfer with style-attentional networks[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 5880-5888.
 
+<li>Kotovenko D, Sanakoyeu A, Ma P, et al. A content transformation block for image style transfer[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10032-10041.
+
 <li>Lin T, Ma Z, Li F, et al. Drafting and revision: Laplacian pyramid network for fast high-quality artistic style transfer[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2021: 5141-5150.
 
 <li>Liu S, Lin T, He D, et al. Adaattn: Revisit attention mechanism in arbitrary neural style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2021: 6649-6658.
