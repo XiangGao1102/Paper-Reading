@@ -12,6 +12,8 @@
 
 <li>Kolkin N, Salavon J, Shakhnarovich G. Style transfer by relaxed optimal transport and self-similarity[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10051-10060.
 
+<li>Park D Y, Lee K H. Arbitrary style transfer with style-attentional networks[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 5880-5888.
+
 <li>Lin T, Ma Z, Li F, et al. Drafting and revision: Laplacian pyramid network for fast high-quality artistic style transfer[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2021: 5141-5150.
 
 <li>Zhu M, He X, Wang N, et al. All-to-key attention for arbitrary style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 23109-23119.
