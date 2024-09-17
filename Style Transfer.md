@@ -22,4 +22,10 @@
   
 <li>Deng Y, Tang F, Dong W, et al. Stytr2: Image style transfer with transformers[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2022: 11326-11336.
 
+<li>Wang X, Wang W, Yang S, et al. CLAST: Contrastive learning for arbitrary style transfer[J]. IEEE Transactions on Image Processing, 2022, 31: 6761-6772.
+
+<li>Chen H, Zhao L, Wang Z, et al. Artistic style transfer with internal-external learning and contrastive learning[C]//Proceedings of the International Conference on Neural Information Processing Systems. 2021: 26561-26573.
+
+<li>Zhang Y, Tang F, Dong W, et al. Domain enhanced arbitrary image style transfer via contrastive learning[C]//ACM SIGGRAPH 2022 Conference Proceedings. 2022: 1-8.
+
 </ol>
