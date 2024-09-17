@@ -16,16 +16,16 @@
 
 <li>Lin T, Ma Z, Li F, et al. Drafting and revision: Laplacian pyramid network for fast high-quality artistic style transfer[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2021: 5141-5150.
 
-<li>Zhu M, He X, Wang N, et al. All-to-key attention for arbitrary style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 23109-23119.
-
 <li>Liu S, Lin T, He D, et al. Adaattn: Revisit attention mechanism in arbitrary neural style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2021: 6649-6658.
+
+<li>Chen H, Zhao L, Wang Z, et al. Artistic style transfer with internal-external learning and contrastive learning[C]//Proceedings of the International Conference on Neural Information Processing Systems. 2021: 26561-26573.
   
 <li>Deng Y, Tang F, Dong W, et al. Stytr2: Image style transfer with transformers[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2022: 11326-11336.
 
 <li>Wang X, Wang W, Yang S, et al. CLAST: Contrastive learning for arbitrary style transfer[J]. IEEE Transactions on Image Processing, 2022, 31: 6761-6772.
 
-<li>Chen H, Zhao L, Wang Z, et al. Artistic style transfer with internal-external learning and contrastive learning[C]//Proceedings of the International Conference on Neural Information Processing Systems. 2021: 26561-26573.
-
 <li>Zhang Y, Tang F, Dong W, et al. Domain enhanced arbitrary image style transfer via contrastive learning[C]//ACM SIGGRAPH 2022 Conference Proceedings. 2022: 1-8.
 
+<li>Zhu M, He X, Wang N, et al. All-to-key attention for arbitrary style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 23109-23119.
+  
 </ol>
