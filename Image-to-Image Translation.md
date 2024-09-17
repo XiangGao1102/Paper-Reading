@@ -8,6 +8,8 @@
 <li>Huang X, Liu M Y, Belongie S, et al. Multimodal unsupervised image-to-image translation[C]//Proceedings of the European Conference on Computer Vision. 2018: 172-189.
 
 <li>Lee H Y, Tseng H Y, Huang J B, et al. Diverse image-to-image translation via disentangled representations[C]//Proceedings of the European conference on computer vision. 2018: 35-51.
+
+<li>He B, Gao F, Ma D, et al. Chipgan: A generative adversarial network for chinese ink wash painting style transfer[C]//Proceedings of the 26th ACM international conference on Multimedia. 2018: 1172-1180.
   
 <li> Yi R, Liu Y J, Lai Y K, et al. Apdrawinggan: Generating artistic portrait drawings from face photos with hierarchical gans[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10743-10752.
 
