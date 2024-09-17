@@ -27,5 +27,7 @@
 <li>Zhang Y, Tang F, Dong W, et al. Domain enhanced arbitrary image style transfer via contrastive learning[C]//ACM SIGGRAPH 2022 Conference Proceedings. 2022: 1-8.
 
 <li>Zhu M, He X, Wang N, et al. All-to-key attention for arbitrary style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 23109-23119.
+
+<li>Wang Z, Zhao L, Xing W. Stylediffusion: Controllable disentangled style transfer via diffusion models[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 7677-7689.
   
 </ol>
