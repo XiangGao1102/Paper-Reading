@@ -8,6 +8,8 @@
 
 <li>Huang X, Belongie S. Arbitrary style transfer in real-time with adaptive instance normalization[C]//Proceedings of the IEEE International Conference on Computer Vision. 2017: 1501-1510.
 
+<li>Li Y, Fang C, Yang J, et al. Universal style transfer via feature transforms[C]//Proceedings of the International Conference on Neural Information Processing Systems. 2017: 385-395.
+
 <li>Kolkin N, Salavon J, Shakhnarovich G. Style transfer by relaxed optimal transport and self-similarity[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10051-10060.
 
 <li>Lin T, Ma Z, Li F, et al. Drafting and revision: Laplacian pyramid network for fast high-quality artistic style transfer[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2021: 5141-5150.
