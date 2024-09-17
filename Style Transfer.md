@@ -20,4 +20,6 @@
 
 <li>Deng Y, Tang F, Dong W, et al. Stytr2: Image style transfer with transformers[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2022: 11326-11336.
 
+<li>Liu S, Lin T, He D, et al. Adaattn: Revisit attention mechanism in arbitrary neural style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2021: 6649-6658.
+
 </ol>
