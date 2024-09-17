@@ -18,4 +18,6 @@
 
 <li>Zhu M, He X, Wang N, et al. All-to-key attention for arbitrary style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 23109-23119.
 
+<li>Deng Y, Tang F, Dong W, et al. Stytr2: Image style transfer with transformers[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2022: 11326-11336.
+
 </ol>
