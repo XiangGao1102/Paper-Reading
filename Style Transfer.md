@@ -33,5 +33,7 @@
 <li>Zhu M, He X, Wang N, et al. All-to-key attention for arbitrary style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 23109-23119.
 
 <li>Wang Z, Zhao L, Xing W. Stylediffusion: Controllable disentangled style transfer via diffusion models[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 7677-7689.
+
+<li>He F, Li G, Zhang M, et al. Freestyle: Free lunch for text-guided style transfer using diffusion models[J]. arXiv preprint arXiv:2401.15636, 2024.
   
 </ol>
