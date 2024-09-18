@@ -14,4 +14,6 @@
 <li> Yi R, Liu Y J, Lai Y K, et al. Apdrawinggan: Generating artistic portrait drawings from face photos with hierarchical gans[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10743-10752.
 
 <li>Park T, Efros A A, Zhang R, et al. Contrastive learning for unpaired image-to-image translation[C]//Proceedings of the European Conference on Computer Vision. 2020: 319-345.
+
+<li>Tumanyan N, Geyer M, Bagon S, et al. Plug-and-play diffusion features for text-driven image-to-image translation[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2023: 1921-1930.
 </ol>
