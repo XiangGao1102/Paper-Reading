@@ -10,5 +10,6 @@
 <li>Li Y, Liu H, Wu Q, et al. Gligen: Open-set grounded text-to-image generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 22511-22521.
 <li>Xie J, Li Y, Huang Y, et al. Boxdiff: Text-to-image synthesis with training-free box-constrained diffusion[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 7452-7461.
 <li>Wu G, Liu X, Jia J, et al. Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 8456-8465.
+<li>Liao J W, Wang W, Wang T S, et al. Diffusion-based Aesthetic QR Code Generation via Scanning-Robust Perceptual Guidance[J]. arXiv preprint arXiv:2403.15878, 2024.
 </ol>
 
