@@ -4,6 +4,7 @@
 <li>Ramesh A, Dhariwal P, Nichol A, et al. Hierarchical Text-Conditional Image Generation with CLIP Latents[J]. arXiv preprint arXiv:2204.06125, 2022.
 <li>Rombach R, Blattmann A, Lorenz D, et al. High-resolution image synthesis with latent diffusion models[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 10684-10695.
 <li>Zhang L, Rao A, Agrawala M. Adding conditional control to text-to-image diffusion models[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 3836-3847.
+<li>Huang L, Chen D, Liu Y, et al. Composer: Creative and Controllable Image Synthesis with Composable Conditions[C]//International Conference on Machine Learning. PMLR, 2023: 13753-13773.
 <li>Geng D, Park I, Owens A. Visual anagrams: Generating multi-view optical illusions with diffusion models[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2024: 24154-24163.</li>
 <li>Wang X, Darrell T, Rambhatla S S, et al. Instancediffusion: Instance-level control for image generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 6232-6242.
 <li>Avrahami O, Hayes T, Gafni O, et al. Spatext: Spatio-textual representation for controllable image generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 18370-18380.
