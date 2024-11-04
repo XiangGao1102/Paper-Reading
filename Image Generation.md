@@ -5,6 +5,7 @@
 <li>Rombach R, Blattmann A, Lorenz D, et al. High-resolution image synthesis with latent diffusion models[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 10684-10695.
 <li>Zhang L, Rao A, Agrawala M. Adding conditional control to text-to-image diffusion models[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 3836-3847.
 <li>Huang L, Chen D, Liu Y, et al. Composer: Creative and Controllable Image Synthesis with Composable Conditions[C]//International Conference on Machine Learning. PMLR, 2023: 13753-13773.
+<li> Peebles W, Xie S. Scalable diffusion models with transformers[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 4195-4205.
 <li>Geng D, Park I, Owens A. Visual anagrams: Generating multi-view optical illusions with diffusion models[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2024: 24154-24163.</li>
 <li>Wang X, Darrell T, Rambhatla S S, et al. Instancediffusion: Instance-level control for image generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 6232-6242.
 <li>Avrahami O, Hayes T, Gafni O, et al. Spatext: Spatio-textual representation for controllable image generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 18370-18380.
@@ -12,5 +13,6 @@
 <li>Xie J, Li Y, Huang Y, et al. Boxdiff: Text-to-image synthesis with training-free box-constrained diffusion[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 7452-7461.
 <li>Wu G, Liu X, Jia J, et al. Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 8456-8465.
 <li>Liao J W, Wang W, Wang T S, et al. Diffusion-based Aesthetic QR Code Generation via Scanning-Robust Perceptual Guidance[J]. arXiv preprint arXiv:2403.15878, 2024.
+<li>Esser P, Kulal S, Blattmann A, et al. Scaling rectified flow transformers for high-resolution image synthesis[C]//Proceedings of the International Conference on Machine Learning. 2024.
 </ol>
 
