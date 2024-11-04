@@ -6,5 +6,6 @@
 <li><Huang L, Chen D, Liu Y, et al. Composer: Creative and Controllable Image Synthesis with Composable Conditions[C]//International Conference on Machine Learning. PMLR, 2023: 13753-13773.
 <li>Yin T, Gharbi M, Zhang R, et al. One-step diffusion with distribution matching distillation[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2024: 6613-6623.
 <li>Liu J, Wang Q, Fan H, et al. Residual denoising diffusion models[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2024: 2773-2783.
+<li>Esser P, Kulal S, Blattmann A, et al. Scaling rectified flow transformers for high-resolution image synthesis[C]//Proceedings of the International Conference on Machine Learning. 2024.
 </ol>
 
