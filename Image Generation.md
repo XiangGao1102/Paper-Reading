@@ -1,18 +1,18 @@
 <ol>
-<li>Nichol A Q, Dhariwal P, Ramesh A, et al. GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models[C]//Proceedings of the International Conference on Machine Learning. PMLR, 2022: 16784-16804.
-<li>Saharia C, Chan W, Saxena S, et al. Photorealistic text-to-image diffusion models with deep language understanding[C]//Proceedings of the International Conference on Neural Information Processing Systems. 2022: 36479-36494.
-<li>Ramesh A, Dhariwal P, Nichol A, et al. Hierarchical Text-Conditional Image Generation with CLIP Latents[J]. arXiv preprint arXiv:2204.06125, 2022.
-<li>Rombach R, Blattmann A, Lorenz D, et al. High-resolution image synthesis with latent diffusion models[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 10684-10695.
-<li>Zhang L, Rao A, Agrawala M. Adding conditional control to text-to-image diffusion models[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 3836-3847.
-<li>Huang L, Chen D, Liu Y, et al. Composer: Creative and Controllable Image Synthesis with Composable Conditions[C]//International Conference on Machine Learning. PMLR, 2023: 13753-13773.
-<li> Peebles W, Xie S. Scalable diffusion models with transformers[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 4195-4205.
-<li>Geng D, Park I, Owens A. Visual anagrams: Generating multi-view optical illusions with diffusion models[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2024: 24154-24163.</li>
-<li>Wang X, Darrell T, Rambhatla S S, et al. Instancediffusion: Instance-level control for image generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 6232-6242.
-<li>Avrahami O, Hayes T, Gafni O, et al. Spatext: Spatio-textual representation for controllable image generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 18370-18380.
-<li>Li Y, Liu H, Wu Q, et al. Gligen: Open-set grounded text-to-image generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 22511-22521.
-<li>Xie J, Li Y, Huang Y, et al. Boxdiff: Text-to-image synthesis with training-free box-constrained diffusion[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 7452-7461.
-<li>Wu G, Liu X, Jia J, et al. Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 8456-8465.
-<li>Liao J W, Wang W, Wang T S, et al. Diffusion-based Aesthetic QR Code Generation via Scanning-Robust Perceptual Guidance[J]. arXiv preprint arXiv:2403.15878, 2024.
-<li>Esser P, Kulal S, Blattmann A, et al. Scaling rectified flow transformers for high-resolution image synthesis[C]//Proceedings of the International Conference on Machine Learning. 2024.
+<li>GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models (ICML 2022)
+<li>Photorealistic text-to-image diffusion models with deep language understanding (NIPS 2022)
+<li>Hierarchical Text-Conditional Image Generation with CLIP Latents (arXiv 2022)
+<li>High-resolution image synthesis with latent diffusion models (CVPR 2022)
+<li>Adding conditional control to text-to-image diffusion models (ICCV 2023)
+<li>Composer: Creative and Controllable Image Synthesis with Composable Conditions (ICML 2023)
+<li>Visual anagrams: Generating multi-view optical illusions with diffusion models (CVPR 2024)
+<li>Instancediffusion: Instance-level control for image generation (CVPR 2024)
+<li>Spatext: Spatio-textual representation for controllable image generation (CVPR 2023)
+<li>Gligen: Open-set grounded text-to-image generation (CVPR 2023)
+<li>Boxdiff: Text-to-image synthesis with training-free box-constrained diffusion (ICCV 2023)
+<li>Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation (CVPR 2024)
+<li>Diffusion-based Aesthetic QR Code Generation via Scanning-Robust Perceptual Guidance (arXiv 2024).
+<li>Scaling rectified flow transformers for high-resolution image synthesis (ICML 2024)
+<li>SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (ICLR 2024)
 </ol>
 
