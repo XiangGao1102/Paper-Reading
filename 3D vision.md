@@ -1,5 +1,7 @@
 <ol>
-<li> Poole B, Jain A, Barron J T, et al. Dreamfusion: Text-to-3d using 2d diffusion[J]. arXiv preprint arXiv:2209.14988, 2022.
-<li> Wang H, Du X, Li J, et al. Score jacobian chaining: Lifting pretrained 2d diffusion models for 3d generation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 12619-12629.
+<li> Dreamfusion: Text-to-3d using 2d diffusion (arXiv 2022)
+<li> Score jacobian chaining: Lifting pretrained 2d diffusion models for 3d generation (CVPR 2023)
+<li> NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ECCV 2020)
+<li> https://www.bilibili.com/video/BV18X4y1a7FT/?vd_source=72689f90d48c73f63dcbbf0140ca38a5 (Nerf 基础视频讲解)
 </ol>
 
