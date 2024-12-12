@@ -1,39 +1,21 @@
 <ol>
-  
-<li>Gatys L A, Ecker A S, Bethge M. Image style transfer using convolutional neural networks[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 2414-2423.
-
-<li>Li C, Wand M. Combining markov random fields and convolutional neural networks for image synthesis[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 2479-2486.
-
-<li>Johnson J, Alahi A, Fei-Fei L. Perceptual losses for real-time style transfer and super-resolution[C]//Proceedings of the European Conference on Computer Vision. 2016: 694-711.
-
-<li>Li Y, Wang N, Liu J, et al. Demystifying neural style transfer[C]//Proceedings of the International Joint Conference on Artificial Intelligence. 2017: 2230-2236.
-
-<li>Huang X, Belongie S. Arbitrary style transfer in real-time with adaptive instance normalization[C]//Proceedings of the IEEE International Conference on Computer Vision. 2017: 1501-1510.
-
-<li>Li Y, Fang C, Yang J, et al. Universal style transfer via feature transforms[C]//Proceedings of the International Conference on Neural Information Processing Systems. 2017: 385-395.
-
-<li>Kolkin N, Salavon J, Shakhnarovich G. Style transfer by relaxed optimal transport and self-similarity[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10051-10060.
-
-<li>Park D Y, Lee K H. Arbitrary style transfer with style-attentional networks[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 5880-5888.
-
-<li>Kotovenko D, Sanakoyeu A, Ma P, et al. A content transformation block for image style transfer[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 10032-10041.
-
-<li>Lin T, Ma Z, Li F, et al. Drafting and revision: Laplacian pyramid network for fast high-quality artistic style transfer[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2021: 5141-5150.
-
-<li>Liu S, Lin T, He D, et al. Adaattn: Revisit attention mechanism in arbitrary neural style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2021: 6649-6658.
-
-<li>Chen H, Zhao L, Wang Z, et al. Artistic style transfer with internal-external learning and contrastive learning[C]//Proceedings of the International Conference on Neural Information Processing Systems. 2021: 26561-26573.
-  
-<li>Deng Y, Tang F, Dong W, et al. Stytr2: Image style transfer with transformers[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2022: 11326-11336.
-
-<li>Wang X, Wang W, Yang S, et al. CLAST: Contrastive learning for arbitrary style transfer[J]. IEEE Transactions on Image Processing, 2022, 31: 6761-6772.
-
-<li>Zhang Y, Tang F, Dong W, et al. Domain enhanced arbitrary image style transfer via contrastive learning[C]//ACM SIGGRAPH 2022 Conference Proceedings. 2022: 1-8.
-
-<li>Zhu M, He X, Wang N, et al. All-to-key attention for arbitrary style transfer[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 23109-23119.
-
-<li>Wang Z, Zhao L, Xing W. Stylediffusion: Controllable disentangled style transfer via diffusion models[C]//Proceedings of the IEEE International Conference on Computer Vision. 2023: 7677-7689.
-
-<li>He F, Li G, Zhang M, et al. Freestyle: Free lunch for text-guided style transfer using diffusion models[J]. arXiv preprint arXiv:2401.15636, 2024.
-  
+<li>Image style transfer using convolutional neural networks (CVPR 2016)
+<li>Combining markov random fields and convolutional neural networks for image synthesis (CVPR 2016)
+<li>Perceptual losses for real-time style transfer and super-resolution (ECCV 2016)
+<li>Demystifying neural style transfer (IJCAI 2017)
+<li>Arbitrary style transfer in real-time with adaptive instance normalization (ICCV 2017)
+<li>Universal style transfer via feature transforms (NIPS 2017)
+<li>Style transfer by relaxed optimal transport and self-similarity (CVPR 2019)
+<li>Arbitrary style transfer with style-attentional networks (CVPR 2019)
+<li>A content transformation block for image style transfer (CVPR 2019)
+<li>Drafting and revision: Laplacian pyramid network for fast high-quality artistic style transfer (CVPR 2021)
+<li>Adaattn: Revisit attention mechanism in arbitrary neural style transfer (ICCV 2021)
+<li>Artistic style transfer with internal-external learning and contrastive learning (NIPS 2021)
+<li>Stytr2: Image style transfer with transformers (CVPR 2022)
+<li>CLAST: Contrastive learning for arbitrary style transfer (TIP 2022)
+<li>Domain enhanced arbitrary image style transfer via contrastive learning (SIGGRAPH 2022)
+<li>All-to-key attention for arbitrary style transfer (ICCV 2023)
+<li>Stylediffusion: Controllable disentangled style transfer via diffusion models (ICCV 2023)
+<li>Freestyle: Free lunch for text-guided style transfer using diffusion models (arXiv 2024)
+<li>StyleMaster: Stylize Your Video with Artistic Generation and Translation (arXiv 2024)
 </ol>
