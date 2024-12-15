@@ -14,5 +14,6 @@
 <li>Diffusion-based Aesthetic QR Code Generation via Scanning-Robust Perceptual Guidance (arXiv 2024).
 <li>Scaling rectified flow transformers for high-resolution image synthesis (ICML 2024)
 <li>SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (ICLR 2024)
+<li>WonderJourney: Going from Anywhere to Everywhere
 </ol>
 
