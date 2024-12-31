@@ -19,4 +19,5 @@
 <li>Freestyle: Free lunch for text-guided style transfer using diffusion models (arXiv 2024)
 <li>StyleMaster: Stylize Your Video with Artistic Generation and Translation (arXiv 2024)
 <li>Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer (CVPR 2024)
+<li>Style Aligned Image Generation via Shared Attention (CVPR 2024)
 </ol>
