@@ -8,4 +8,5 @@
 <li>EditGAN: High-Precision Semantic Image Editing (NeurIPS 2021)
 <li>Maskgan: Towards diverse and interactive facial image manipulation (CVPR 2020)
 <li>SemanticStyleGAN: Learning Compositional Generative Priors for Controllable Image Synthesis and Editing (CVPR 2022)
+<li>Imagic: Text-Based Real Image Editing with Diffusion Models (CVPR 2023)
 </ol>
