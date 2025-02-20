@@ -10,4 +10,5 @@
 <li>SemanticStyleGAN: Learning Compositional Generative Priors for Controllable Image Synthesis and Editing (CVPR 2022)
 <li>Imagic: Text-Based Real Image Editing with Diffusion Models (CVPR 2023)
 <li>MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing (ICCV 2023)
+<li>Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation (CVPR 2024)
 </ol>
