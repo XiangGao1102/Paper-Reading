@@ -8,5 +8,6 @@
 <li>Residual denoising diffusion models (CVPR 2024)
 <li>Scaling rectified flow transformers for high-resolution image synthesis (ICML 2024)
 <li>PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation (arXiv 2024)
+<li>Latent consistency models: Synthesizing high-resolution images with few-step inference (arxiv)
 </ol>
 
