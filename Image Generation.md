@@ -15,7 +15,5 @@
 <li>Scaling rectified flow transformers for high-resolution image synthesis (ICML 2024)
 <li>SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis (ICLR 2024)
 <li>WonderJourney: Going from Anywhere to Everywhere
-<li>Subject-Diffusion: Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning (ACM SIGGRAPH 2024)
-<li>MS-DIFFUSION: MULTI-SUBJECT ZERO-SHOT IMAGE PERSONALIZATION WITH LAYOUT GUIDANCE (ICLR 2025)
 </ol>
 
