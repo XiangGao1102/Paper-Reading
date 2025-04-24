@@ -12,4 +12,7 @@
 <li>MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing (ICCV 2023)
 <li>Dragdiffusion: Harnessing diffusion models for interactive point-based image editing (CVPR 2024)
 <li>Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation (CVPR 2024)
+<li>StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing (arxiv 2023)
+<li>Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models (arxiv 2023)
+<li>LIGHTNING-FAST IMAGE INVERSION AND EDITING FOR TEXT-TO-IMAGE DIFFUSION MODELS (ICLR 2025)
 </ol>
