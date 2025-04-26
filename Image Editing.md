@@ -16,4 +16,5 @@
 <li>Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models (arxiv 2023)
 <li>LIGHTNING-FAST IMAGE INVERSION AND EDITING FOR TEXT-TO-IMAGE DIFFUSION MODELS (ICLR 2025)
 <li>Effective real image editing with accelerated iterative diffusion inversion
+<li>ReNoise: Real Image Inversion Through Iterative Noising
 </ol>
