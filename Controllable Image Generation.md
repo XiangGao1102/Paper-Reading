@@ -5,4 +5,5 @@
 <li>InstanceDiffusion: Instance-level Control for Image Generation (CVPR 2024)
 <li>InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models (CVPR 2024)
 <li>Generative Photomontage (CVPR 2025)
+<li>LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation (CVPR 2023)
 </ol>
