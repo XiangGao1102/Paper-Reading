@@ -4,4 +4,12 @@
 <li>InstantID: Zero-shot Identity-Preserving Generation in Seconds (arXiv 2024)
 <li>Non-confusing Generation of Customized Concepts in Diffusion Models (ICML 2024)
 <li>FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition (CVPR 2024)
+<li>CapHuman: Capture Your Moments in Parallel Universes (CVPR 2024)
+<li>ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving (arxiv 2024)
+<li>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (CVPR 2023)
+<li>InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning (CVPR 2024)
+<li>Instantfamily: Masked attention for zero-shot multi-id image generation (arxiv 2024)
+<li>IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models (arxiv 2023)
+<li>Multi-concept customization of text-to-image diffusion (CVPR 2023)
+<li>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion (arxiv 2022)
 </ol>
