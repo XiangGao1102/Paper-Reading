@@ -6,4 +6,5 @@
 <li>InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models (CVPR 2024)
 <li>Generative Photomontage (CVPR 2025)
 <li>LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation (CVPR 2023)
+<li>Attention Distillation: A Unified Approach to Visual Characteristics Transfer (CVPR 2025)
 </ol>
