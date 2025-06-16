@@ -22,4 +22,5 @@
 <li>Style Aligned Image Generation via Shared Attention (CVPR 2024)
 <li>Visual Style Prompting with Swapping Self-Attention (arXiv)
 <li>STAM: Zero-Shot Style Transfer using Diffusion Model via Attention Modulation
+<li>Style-Editor: Text-driven object-centric style editing
 </ol>
