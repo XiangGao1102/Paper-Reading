@@ -21,4 +21,5 @@
 <li>Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer (CVPR 2024)
 <li>Style Aligned Image Generation via Shared Attention (CVPR 2024)
 <li>Visual Style Prompting with Swapping Self-Attention (arXiv)
+<li>STAM: Zero-Shot Style Transfer using Diffusion Model via Attention Modulation
 </ol>
