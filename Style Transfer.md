@@ -17,7 +17,7 @@
 <li>All-to-key attention for arbitrary style transfer (ICCV 2023)
 <li>Stylediffusion: Controllable disentangled style transfer via diffusion models (ICCV 2023)
 <li>StyleCrafter: Taming Stylized Video Diffusion with Reference-Augmented Adapter Learning (arXiv 2023)
-<li>Freestyle: Free lunch for text-guided style transfer using diffusion models (arXiv 2024)
+<li>FreeStyle: Free lunch for text-guided style transfer using diffusion models (arXiv 2024)
 <li>StyleMaster: Stylize Your Video with Artistic Generation and Translation (arXiv 2024)
 <li>Instantstyle: Free lunch towards style-preserving in text-to-image generation (arXiv 2024)
 <li>Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer (CVPR 2024)
