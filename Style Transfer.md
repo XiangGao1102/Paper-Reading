@@ -22,6 +22,7 @@
 <li>InstantStyle: Free lunch towards style-preserving in text-to-image generation (arXiv 2024)
 <li>Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer (CVPR 2024)
 <li>Style Aligned Image Generation via Shared Attention (CVPR 2024)
+<li>Attention Distillation: A Unified Approach to Visual Characteristics Transfer (CVPR 2025)
 <li>Visual Style Prompting with Swapping Self-Attention (arXiv)
 <li>STAM: Zero-Shot Style Transfer using Diffusion Model via Attention Modulation
 <li>Style-Editor: Text-driven object-centric style editing
